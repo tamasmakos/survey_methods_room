@@ -33,15 +33,18 @@ This script is written in JavaScript for use with Google Apps Script. It can be 
 
 ### Usage in Google Sheets
 
-GET GEOCODES
+#### GET GEOCODES
+The function takes the address as parameter and returns the Latitude and Longitude
 <img width="776" alt="Screenshot 2023-05-11 at 14 13 55" src="https://github.com/tamasmakos/find_nearby_places/assets/86356871/35d7f7e1-b805-4e0d-ba59-260fc355454a">
 
 
-GET CLOSES POINT OF INTEREST
+#### GET CLOSES POINT OF INTEREST
 The function have three argument:
 - Latitude
 - Longitude
 - Radius
 - Type of place
-- 
+
+Returns the name and the distance of the closest type of place
+
 <img width="776" alt="Screenshot 2023-05-11 at 14 14 42" src="https://github.com/tamasmakos/find_nearby_places/assets/86356871/a33d03c5-7e72-42e1-9bee-254191537040">
