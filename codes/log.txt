@@ -1,0 +1,67 @@
+2023-09-19 12:52:23,834 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 13:00:54,426 ERROR Error processing file inga2013.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,461 ERROR Error processing file inga2005.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,497 ERROR Error processing file inga2009.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,536 ERROR Error processing file inga2008.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,571 ERROR Error processing file inga2012.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,611 ERROR Error processing file inga2019.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,649 ERROR Error processing file inga2015.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,789 ERROR Error processing file inga2014.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,828 ERROR Error processing file inga2018.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,867 ERROR Error processing file inga2017.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,905 ERROR Error processing file inga2016.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,941 ERROR Error processing file inga2020.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:54,975 ERROR Error processing file inga2007.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:55,011 ERROR Error processing file inga2011.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:55,012 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 13:00:55,048 ERROR Error processing file inga2010.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:00:55,084 ERROR Error processing file inga2006.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:57,580 ERROR Error processing file inga2013.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:57,614 ERROR Error processing file inga2005.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:57,649 ERROR Error processing file inga2009.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:57,819 ERROR Error processing file inga2008.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:57,854 ERROR Error processing file inga2012.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:57,892 ERROR Error processing file inga2019.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:57,930 ERROR Error processing file inga2015.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:57,965 ERROR Error processing file inga2014.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:58,003 ERROR Error processing file inga2018.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:58,040 ERROR Error processing file inga2017.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:58,078 ERROR Error processing file inga2016.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:58,113 ERROR Error processing file inga2020.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:58,147 ERROR Error processing file inga2007.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:58,181 ERROR Error processing file inga2011.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:58,181 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 13:01:58,288 ERROR Error processing file inga2010.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:01:58,323 ERROR Error processing file inga2006.xlsx: cannot specify usecols when specifying a multi-index header
+2023-09-19 13:03:35,631 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 14:48:52,960 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 14:49:40,992 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 14:50:44,147 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 14:51:14,781 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 14:52:11,465 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 14:52:43,333 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 14:53:22,417 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 14:59:56,703 ERROR Error processing file inga2005.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:00:00,690 ERROR Error processing file inga2007.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:00:00,984 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 15:00:01,701 ERROR Error processing file inga2006.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:00:55,465 ERROR Error processing file inga2005.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:00:59,474 ERROR Error processing file inga2007.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:00:59,754 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 15:01:00,452 ERROR Error processing file inga2006.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:01:16,736 ERROR Error processing file inga2005.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:01:20,594 ERROR Error processing file inga2007.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:01:20,880 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 15:01:21,577 ERROR Error processing file inga2006.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:01:47,356 ERROR Error processing file inga2005.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:01:48,713 ERROR Error processing file inga2019.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:01:49,826 ERROR Error processing file inga2018.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:01:50,183 ERROR Error processing file inga2017.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:01:50,581 ERROR Error processing file inga2016.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:01:50,883 ERROR Error processing file inga2020.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:01:51,271 ERROR Error processing file inga2007.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:01:51,555 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 15:01:52,185 ERROR Error processing file inga2006.xlsx: Reindexing only valid with uniquely valued Index objects
+2023-09-19 15:04:28,530 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 15:09:42,515 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
+2023-09-19 15:45:14,890 ERROR Error processing file ~$inga2005.xlsx: File is not a zip file
